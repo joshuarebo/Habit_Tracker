@@ -1,0 +1,235 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1707803289862)
++++ b/.idea/vcs.xml	(date 1707803289862)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+new file mode 100644
+--- /dev/null	(date 1707804286738)
++++ b/.idea/workspace.xml	(date 1707804286738)
+@@ -0,0 +1,117 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="903c5d73-732c-4838-8594-5da60451f42f" name="Changes" comment="&quot;Initial commit&quot;">
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]1/shelved.patch" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM__Changes_.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="48c91430c8a3bf95b2f45b0458721561529b3fc5" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "git-widget-placeholder": "d961e71e",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "settings.editor.selected.configurable": "configurable.group.project"
++  }
++}]]></component>
++  <component name="RunManager">
++    <configuration name="Python tests for test_task.test_task_creation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
++      <module name="HABITUAL" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Main Directory/tests" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="_new_additionalArguments" value="&quot;&quot;" />
++      <option name="_new_target" value="&quot;test_task.test_task_creation&quot;" />
++      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
++      <method v="2" />
++    </configuration>
++    <configuration name="Python tests for test_user.test_user_creation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
++      <module name="HABITUAL" />
++      <option name="ENV_FILES" value="" />
++      <option name="INTERPRETER_OPTIONS" value="" />
++      <option name="PARENT_ENVS" value="true" />
++      <option name="SDK_HOME" value="" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Main Directory/tests" />
++      <option name="IS_MODULE_SDK" value="true" />
++      <option name="ADD_CONTENT_ROOTS" value="true" />
++      <option name="ADD_SOURCE_ROOTS" value="true" />
++      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
++      <option name="_new_additionalArguments" value="&quot;&quot;" />
++      <option name="_new_target" value="&quot;test_user.test_user_creation&quot;" />
++      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
++      <method v="2" />
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Python tests.Python tests for test_user.test_user_creation" />
++        <item itemvalue="Python tests.Python tests for test_task.test_task_creation" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="TaskManager">
++    <task id="LOCAL-00001" summary="&quot;Initial commit&quot;">
++      <option name="closed" value="true" />
++      <created>1707803359824</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1707803359824</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
++    <servers />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="&quot;Initial commit&quot;" />
++    <option name="LAST_COMMIT_MESSAGE" value="&quot;Initial commit&quot;" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
++          <url>file://$PROJECT_DIR$/tests/test_habitual_app.py</url>
++          <line>3</line>
++          <option name="timeStamp" value="1" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM__Changes_.xml
+new file mode 100644
+--- /dev/null	(date 1707803289682)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM__Changes_.xml	(date 1707803289682)
+@@ -0,0 +1,4 @@
++<changelist name="Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]" date="1707803207264" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2/13/2024 8:46 AM [Changes]" />
++</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1707803214533)
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]/shelved.patch	(date 1707803214533)
+@@ -0,0 +1,63 @@
++Index: .idea/workspace.xml
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a67d0a4d-ef68-4dda-bef0-d51ade890bbb\" name=\"Changes\" comment=\"&quot;First commit&quot;\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ChangesViewManager\">\r\n    <option name=\"groupingKeys\">\r\n      <option value=\"directory\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <excluded-from-favorite>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"master\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </excluded-from-favorite>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedTabId\" value=\"ProjectErrors\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2c4Zf4K2ZojG4qvg6shDF44IinD\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Python tests.Python tests for test_task.test_task_creation.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests for test_user.test_user_creation.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_analytics_module.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_cli_handler.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_data.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_habitual_app.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_main.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_period.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_storage_manager.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_task.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python tests.Python tests in test_user.py.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.analytics_module.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.cli_handler.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.create_tables.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.habitual_app.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.main.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.period.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.storage_manager.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.task.executor&quot;: &quot;Run&quot;,\r\n    &quot;Python.user.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;Habitual&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/PycharmProjects/HABITUAL&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Hp\\PycharmProjects\\HABITUAL\\.venv\\Main Directory\" />\r\n      <recent name=\"C:\\Users\\Hp\\PycharmProjects\\HABITUAL\\tests\" />\r\n      <recent name=\"C:\\Users\\Hp\\PycharmProjects\\HABITUAL\\tests\\\" />\r\n      <recent name=\"C:\\Users\\Hp\\PycharmProjects\\HABITUAL\\tests\\Main directory\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python tests.Python tests for test_task.test_task_creation\">\r\n    <configuration name=\"Python tests for test_task.test_task_creation\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"HABITUAL\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/.venv/Main Directory/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;test_task.test_task_creation&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Python tests for test_user.test_user_creation\" type=\"tests\" factoryName=\"Autodetect\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"HABITUAL\" />\r\n      <option name=\"ENV_FILES\" value=\"\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/.venv/Main Directory/tests\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;test_user.test_user_creation&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PYTHON&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python tests.Python tests for test_task.test_task_creation\" />\r\n        <item itemvalue=\"Python tests.Python tests for test_user.test_user_creation\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a67d0a4d-ef68-4dda-bef0-d51ade890bbb\" name=\"Changes\" comment=\"\" />\r\n      <created>1707372910604</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1707372910604</updated>\r\n      <workItem from=\"1707372921507\" duration=\"43914000\" />\r\n      <workItem from=\"1707529294316\" duration=\"877000\" />\r\n      <workItem from=\"1707530209959\" duration=\"33000\" />\r\n      <workItem from=\"1707544339303\" duration=\"14177000\" />\r\n      <workItem from=\"1707565609896\" duration=\"1404000\" />\r\n      <workItem from=\"1707637045918\" duration=\"24259000\" />\r\n      <workItem from=\"1707744601850\" duration=\"664000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"&quot;First Commit&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707739022418</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707739022418</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"&quot;First Commit&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707740330496</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707740330496</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"&quot;First commit&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707744852005</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707744852005</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"&quot;First commit&quot;\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707745092046</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707745092046</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"master\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"origin/main\" />\r\n                </option>\r\n              </RecentGroup>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"HEAD\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"Paths\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"dir:C:/Users/Hp/PycharmProjects/HABITUAL/.venv\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"User\">\r\n          <value>\r\n            <list>\r\n              <RecentGroup>\r\n                <option name=\"FILTER_VALUES\">\r\n                  <option value=\"*\" />\r\n                </option>\r\n              </RecentGroup>\r\n            </list>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                  <entry key=\"user\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"*\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"&quot;First Commit&quot;\" />\r\n    <MESSAGE value=\"&quot;Second commit&quot;\" />\r\n    <MESSAGE value=\"&quot;First commit&quot;\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"&quot;First commit&quot;\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/tests/test_habitual_app.py</url>\r\n          <line>3</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$user.coverage\" NAME=\"user Coverage Results\" MODIFIED=\"1707725472341\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$main.coverage\" NAME=\"main Coverage Results\" MODIFIED=\"1707728474710\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$cli_handler.coverage\" NAME=\"cli_handler Coverage Results\" MODIFIED=\"1707717948765\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$create_tables.coverage\" NAME=\"create_tables Coverage Results\" MODIFIED=\"1707461279777\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$storage_manager.coverage\" NAME=\"storage_manager Coverage Results\" MODIFIED=\"1707726541811\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$task.coverage\" NAME=\"task Coverage Results\" MODIFIED=\"1707638687756\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$period.coverage\" NAME=\"period Coverage Results\" MODIFIED=\"1707559933987\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$habitual_app.coverage\" NAME=\"habitual_app Coverage Results\" MODIFIED=\"1707643235980\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$.coverage\" NAME=\" Coverage Results\" MODIFIED=\"1707643256418\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory/tests\" />\r\n    <SUITE FILE_PATH=\"coverage/HABITUAL$analytics_module.coverage\" NAME=\"analytics_module Coverage Results\" MODIFIED=\"1707727285485\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/.venv/Main Directory\" />\r\n  </component>\r\n</project>
++===================================================================
++diff --git a/.idea/workspace.xml b/.idea/workspace.xml
++--- a/.idea/workspace.xml	
+++++ b/.idea/workspace.xml	
++@@ -82,7 +82,6 @@
++     &quot;Python.user.executor&quot;: &quot;Run&quot;,
++     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++-    &quot;git-widget-placeholder&quot;: &quot;Habitual&quot;,
++     &quot;last_opened_file_path&quot;: &quot;C:/Users/Hp/PycharmProjects/HABITUAL&quot;,
++     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++@@ -162,7 +161,9 @@
++       <workItem from="1707544339303" duration="14177000" />
++       <workItem from="1707565609896" duration="1404000" />
++       <workItem from="1707637045918" duration="24259000" />
++-      <workItem from="1707744601850" duration="664000" />
+++      <workItem from="1707744601850" duration="1307000" />
+++      <workItem from="1707754484767" duration="710000" />
+++      <workItem from="1707802428832" duration="521000" />
++     </task>
++     <task id="LOCAL-00001" summary="&quot;First Commit&quot;">
++       <option name="closed" value="true" />
++@@ -196,7 +197,15 @@
++       <option name="project" value="LOCAL" />
++       <updated>1707745092046</updated>
++     </task>
++-    <option name="localTasksCounter" value="5" />
+++    <task id="LOCAL-00005" summary="&quot;First commit&quot;">
+++      <option name="closed" value="true" />
+++      <created>1707752863512</created>
+++      <option name="number" value="00005" />
+++      <option name="presentableId" value="LOCAL-00005" />
+++      <option name="project" value="LOCAL" />
+++      <updated>1707752863512</updated>
+++    </task>
+++    <option name="localTasksCounter" value="6" />
++     <servers />
++   </component>
++   <component name="TypeScriptGeneratedFilesManager">
++@@ -265,7 +274,7 @@
++                   <entry key="branch">
++                     <value>
++                       <list>
++-                        <option value="master" />
+++                        <option value="Habitual" />
++                       </list>
++                     </value>
++                   </entry>
++@@ -310,7 +319,7 @@
++     <SUITE FILE_PATH="coverage/HABITUAL$task.coverage" NAME="task Coverage Results" MODIFIED="1707638687756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Main Directory" />
++     <SUITE FILE_PATH="coverage/HABITUAL$period.coverage" NAME="period Coverage Results" MODIFIED="1707559933987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Main Directory" />
++     <SUITE FILE_PATH="coverage/HABITUAL$habitual_app.coverage" NAME="habitual_app Coverage Results" MODIFIED="1707643235980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Main Directory" />
++-    <SUITE FILE_PATH="coverage/HABITUAL$.coverage" NAME=" Coverage Results" MODIFIED="1707643256418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Main Directory/tests" />
+++    <SUITE FILE_PATH="coverage/HABITUAL$.coverage" NAME=" Coverage Results" MODIFIED="1707752956774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Main Directory/tests" />
++     <SUITE FILE_PATH="coverage/HABITUAL$analytics_module.coverage" NAME="analytics_module Coverage Results" MODIFIED="1707727285485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv/Main Directory" />
++   </component>
++ </project>
++\ No newline at end of file
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_13_2024_8_46_AM_[Changes]1/shelved.patch
+new file mode 100644
